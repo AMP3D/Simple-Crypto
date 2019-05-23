@@ -1,0 +1,7 @@
+{
+  "appId": "com.simplecrypto.app",
+  "appName": "simple-crypto",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist"
+}
