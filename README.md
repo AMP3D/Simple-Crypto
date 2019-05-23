@@ -1,4 +1,4 @@
-# simple-crypto
+# Simple Crypto
 
 ## Project setup
 ```
